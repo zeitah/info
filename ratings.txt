@@ -1,0 +1,28 @@
+Legend 
+LGBT
+L=lesbian,G=gay,B=Bisexual,T[F/M/N]=transgender[Femme/Masc/Nonbinary]
+Q+R
+Q=queer,O=other(plus),R[race]=racism
+
+Underscore Additional Info 
+I=implicit
+E=explicit
+A=author_is
+V=violence_on
+
+4=strongly evokes, but can't describe
+5=feels prejudice but possibly redeemable
+8=messed up level, but is not actively indoctrinating
+9=actively/openly/directly treats the prejudice as doctrine or normalizes extreme violence against
+
+The White Lotus      G=8_I         N=6_E
+The Mighty Boosh     T[F]=5        Q=6_I
+Harry Potter         T[F]=9_A      R[J]=9_I
+Lovecraft Country    T[F]=9_VE     G=7_I
+
+Disagreement
+Bob's Burgers        T[F] (see meta.txt)
+
+I won't be merging any ratings below 4 here, 
+nor will I be merging into this file anything I haven't personally watched.
+public_ratings.txt may have unverified additions, WIP
